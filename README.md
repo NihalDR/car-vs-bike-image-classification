@@ -121,6 +121,12 @@ pip install tensorflow opencv-python matplotlib numpy
 * TensorFlow & Keras
 * Car vs Bike dataset (included in repo)
 
+## 📧 Contact
+
+**Nihal DR**  
+📍 BE AIDS @ CMRIT  
+📧 [nihaldr77@gmail.com]
+
 ---
 
 ## 📌 License
