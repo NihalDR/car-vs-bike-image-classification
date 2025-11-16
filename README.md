@@ -2,7 +2,7 @@
 (AICTE Internship)
 Intern: Nihal DR Project: AICTE Cycle 4 Internship (Oct-Nov 2025) - Automotive Theme
 
-This is the final project submission for the "Automotive - Object Detection" theme. This project is a real-time monitoring system that uses a hybrid computer vision approach to detect both driver drowsiness and distraction.
+This is the final project submission for the "Automotive - Object Detection" theme. 
 This project is a **binary image classification model** built using **Convolutional Neural Networks (CNNs)** in TensorFlow/Keras. It classifies images into two categories: **Car** or **Bike**. The model is trained on a custom dataset and achieves high accuracy using a simple yet powerful CNN architecture.
 
 ---
